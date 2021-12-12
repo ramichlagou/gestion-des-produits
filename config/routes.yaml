@@ -1,3 +1,13 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+# index:
+#     path: /
+#     controller: App\Controller\DefaultController::index
+# somme:
+#     path: /somme/{a}/{b}
+#     controller: App\Controller\SommeController::somme
+# test:
+#     path: /test/{name}/{a}
+#     controller: App\Controller\DemoController::test
+# index1:
+#     path: /{username}
+#     controller: App\Controller\DemoController::index1
+
